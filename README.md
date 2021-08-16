@@ -1,4 +1,10 @@
-### Hi there 👋
+# *Hi, Coders!* 🖖
+
+> Linus Torvalds: *Talk is cheap, show me the code.*
+
+![](https://komarev.com/ghpvc/?username=xiaofuyesnew)
+
+I'm Allen Wong, father of one, front-end developer from China. Love discovering and digging new magic...🧙
 
 <!--
 **xiaofuyesnew/xiaofuyesnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
