@@ -1,8 +1,8 @@
 # *Hi, Coders!* 🖖
 
-I'm Allen Wong, father of one, front-end developer from China. Love discovering and digging new magic...🧙
-
 > *Talk is cheap, show me the code.* --Linus Torvalds
+
+I'm Allen Wong, father of one, front-end developer from China. Love discovering and digging new magic...🧙
 
 ![](https://komarev.com/ghpvc/?username=xiaofuyesnew)
 
