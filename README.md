@@ -36,7 +36,7 @@ I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and
 ![Prisma](https://img.shields.io/badge/-Prisma-%23323031?style=flat&logo=prisma&logoColor=ffffff)\
 ![VS Code](https://img.shields.io/badge/-VS%20Code-%23579050?style=flat&logo=visual-studio-code&logoColor=007ACC&color=2C2C32)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-%23579050?style=flat&logo=filezilla&logoColor=ffffff&color=BF0000)
-![Git](https://img.shields.io/badge/-Git-%23579050?style=flat&logo=git&logoColor=ffffff&color=F05032)
+![Git](https://img.shields.io/badge/-Git-%23579050?style=flat&logo=git&logoColor=ffffff&color=F05032)\
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-%23579050?style=flat&logo=adobe-photoshop&logoColor=001e36&color=31A8FF)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-%23579050?style=flat&logo=adobe-illustrator&logoColor=330000&color=FF9A00)
 ![Adobe Audition](https://img.shields.io/badge/-Adobe%20Audition-%23579050?style=flat&logo=adobe-audition&logoColor=00005b&color=9999FF)
