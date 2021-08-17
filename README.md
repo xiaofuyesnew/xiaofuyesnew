@@ -25,15 +25,15 @@ I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and
 ![React](https://img.shields.io/badge/-React-%23323031?style=flat&logo=react&logoColor=61DAFB)\
 ![Gulp](https://img.shields.io/badge/-Gulp-%23323031?style=flat&logo=gulp&logoColor=ffffff&color=CF4647)
 ![Webpack](https://img.shields.io/badge/-Webpack-%23323031?style=flat&logo=webpack&logoColor=8DD6F9)
-![Vite](https://img.shields.io/badge/-Vite-%23323031?style=flat&logo=vite&logoColor=646CFF)
-\
+![Vite](https://img.shields.io/badge/-Vite-%23323031?style=flat&logo=vite&logoColor=646CFF)\
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
 ![Koa](https://img.shields.io/badge/-Koa-%23579050?style=flat&color=2C2C32)
 ![PM2](https://img.shields.io/badge/-PM2-%23579050?style=flat&logo=pm2&logoColor=ffffff&color=2b037a)
 ![Deno](https://img.shields.io/badge/-Deno-%23579050?style=flat&logo=deno&logoColor=ffffff&color=161e2e)
 ![Nginx](https://img.shields.io/badge/-Nginx-%23579050?style=flat&logo=nginx&logoColor=ffffff&color=009639)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23579050?style=flat&logo=mysql&logoColor=ffffff&color=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23579050?style=flat&logo=mongodb&logoColor=ffffff&color=47A248)\
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23579050?style=flat&logo=mongodb&logoColor=ffffff&color=47A248)
+![Prisma](https://img.shields.io/badge/-Prisma-%23323031?style=flat&logo=prisma&logoColor=ffffff)\
 ![VS Code](https://img.shields.io/badge/-VS%20Code-%23579050?style=flat&logo=visual-studio-code&logoColor=007ACC&color=2C2C32)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-%23579050?style=flat&logo=filezilla&logoColor=ffffff&color=BF0000)
 ![Git](https://img.shields.io/badge/-Git-%23579050?style=flat&logo=git&logoColor=ffffff&color=F05032)
