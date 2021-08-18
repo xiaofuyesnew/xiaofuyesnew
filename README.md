@@ -12,7 +12,7 @@ I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and
 ![公众号](https://img.shields.io/badge/公众号-开源说-%23323031?style=flat&labelColor=323031)
 
 ## My stacks
----
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CB6498?style=flat&logo=sass&logoColor=ffffff)
@@ -47,12 +47,10 @@ I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23579050?style=flat&logo=ubuntu&logoColor=ffffff&color=e95420)
 
 ## My status
----
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaofuyesnew&theme=monokai)
 
 ## Projects I'm working on
----
 
 ## My groups
----
 
