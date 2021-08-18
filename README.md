@@ -19,14 +19,20 @@ I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23579050?style=flat&logo=typescript&logoColor=ffffff&color=3178c6)
 ![Golang](https://img.shields.io/badge/-Golang-%23323031?style=flat&logo=go&logoColor=00ADD8)
-![Rust](https://img.shields.io/badge/-Rust-%23323031?style=flat&logo=rust&logoColor=ffffff)\
+![Rust](https://img.shields.io/badge/-Rust-%23323031?style=flat&logo=rust&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%23323031?style=flat&logo=python&logoColor=ffffff&color=3776AB)
+![Dart](https://img.shields.io/badge/-Dart-%23323031?style=flat&logo=dart&logoColor=ffffff&color=0175C2)\
 ![jQuery](https://img.shields.io/badge/-jQuery-%23579050?style=flat&logo=jquery&logoColor=78cff5&color=0769ad)
 ![Vue](https://img.shields.io/badge/-Vue-%23323031?style=flat&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/-React-%23323031?style=flat&logo=react&logoColor=61DAFB)\
+![React](https://img.shields.io/badge/-React-%23323031?style=flat&logo=react&logoColor=61DAFB)
+![Apache Cordova](https://img.shields.io/badge/-Apache%20Cordova-%23323031?style=flat&logo=Apache-Cordova&logoColor=e8e8e8)
+![Flutter](https://img.shields.io/badge/-Flutter-%23323031?style=flat&logo=Flutter&logoColor=ffffff&color=02569B)\
 ![Gulp](https://img.shields.io/badge/-Gulp-%23323031?style=flat&logo=gulp&logoColor=ffffff&color=CF4647)
 ![Webpack](https://img.shields.io/badge/-Webpack-%23323031?style=flat&logo=webpack&logoColor=8DD6F9)
 ![Vite](https://img.shields.io/badge/-Vite-%23323031?style=flat&logo=vite&logoColor=646CFF)\
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
+![npm](https://img.shields.io/badge/-npm-%23579050?style=flat&logo=npm&logoColor=ffffff&color=2C2C32)
+![yarn](https://img.shields.io/badge/-yarn-%23579050?style=flat&logo=yarn&logoColor=ffffff&color=2C8EBB)
 ![Koa](https://img.shields.io/badge/-Koa-%23579050?style=flat&color=2C2C32)
 ![PM2](https://img.shields.io/badge/-PM2-%23579050?style=flat&logo=pm2&logoColor=ffffff&color=2b037a)
 ![Deno](https://img.shields.io/badge/-Deno-%23579050?style=flat&logo=deno&logoColor=ffffff&color=161e2e)
@@ -35,6 +41,8 @@ I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23579050?style=flat&logo=mongodb&logoColor=ffffff&color=47A248)
 ![Prisma](https://img.shields.io/badge/-Prisma-%23323031?style=flat&logo=prisma&logoColor=ffffff)\
 ![VS Code](https://img.shields.io/badge/-VS%20Code-%23579050?style=flat&logo=visual-studio-code&logoColor=007ACC&color=2C2C32)
+![Xcode](https://img.shields.io/badge/-Xcode-%23579050?style=flat&logo=xcode&logoColor=ffffff&color=147EFB)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-%23579050?style=flat&logo=android-studio&logoColor=3DDC84&color=2C2C32)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-%23579050?style=flat&logo=filezilla&logoColor=ffffff&color=BF0000)
 ![Git](https://img.shields.io/badge/-Git-%23579050?style=flat&logo=git&logoColor=ffffff&color=F05032)\
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-%23579050?style=flat&logo=adobe-photoshop&logoColor=001e36&color=31A8FF)
