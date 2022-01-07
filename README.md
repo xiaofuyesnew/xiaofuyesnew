@@ -56,9 +56,16 @@ I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and
 
 ## My status
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaofuyesnew&theme=monokai)
+![status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaofuyesnew&theme=monokai)
 
 ## Projects I'm working on
 
-## My groups
+- [一个简历生成器](https://github.com/xiaofuyesnew/resume)
+- [一个雪碧图合并工具](https://github.com/xiaofuyesnew/keyframes)
+- [react 新文档翻译](https://github.com/xiaofuyesnew/reactjs.org)
 
+## My organizations
+
+[jishu-lowcode](https://github.com/jishu-lowcode)
+
+[臻苦舍](https://github.com/zkuhut)
