@@ -1,10 +1,10 @@
 # *Hi, coders!* 🖖
 
-> *Talk is cheap, show me the code.* --Linus Torvalds
+![github](https://komarev.com/ghpvc/?username=xiaofuyesnew)
 
 I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and digging new magic...🧙
 
-![](https://komarev.com/ghpvc/?username=xiaofuyesnew)
+> *Talk is cheap, show me the code.* --Linus Torvalds
 
 [![github](https://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=github)](https://github.com/xiaofuyesnew)
 [![github](https://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=twitter)](https://twitter.com/xiaofuyesnew)
