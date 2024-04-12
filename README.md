@@ -7,9 +7,9 @@ I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and
 > *Talk is cheap, show me the code.* --Linus Torvalds
 
 [![github](https://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=github)](https://github.com/xiaofuyesnew)
-[![github](https://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=twitter)](https://twitter.com/xiaofuyesnew)
+[![X](htXps://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=x)](https://twitter.com/xiaofuyesnew)
 ![wechat](https://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=wechat)
-![公众号](https://img.shields.io/badge/公众号-开源说-%23323031?style=flat&labelColor=323031)
+![公众号](https://img.shields.io/badge/公众号-Phaser游-%23323031?style=flat&labelColor=323031)
 
 ## My stacks
 
