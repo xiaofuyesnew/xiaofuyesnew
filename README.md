@@ -2,16 +2,28 @@
 
 ![github](https://komarev.com/ghpvc/?username=xiaofuyesnew)
 
-I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and digging new magic...🧙
+I'm Allen Wong, a full-stack developer from China 🇨🇳. Love discovering and digging new magic...🧙
+
+Currently I'm focusing on [Phaser.js](https://phaser.io) game dev🎮
 
 > *Talk is cheap, show me the code.* --Linus Torvalds
 
-[![github](https://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=github)](https://github.com/xiaofuyesnew)
-[![X](htXps://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=X)](https://twitter.com/xiaofuyesnew)
-![wechat](https://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=wechat)
-![公众号](https://img.shields.io/badge/公众号-Phaser游-%23323031?style=flat&labelColor=323031)
+![github](https://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=github)
+[![X](https://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=x)](https://twitter.com/xiaofuyesnew)
+[![LinkedIn](https://img.shields.io/badge/-xiaofuyesnew-%23323031?style=flat&logo=linkedin)](https://www.linkedin.com/in/xiaofuyesnew/)
+![公众号](https://img.shields.io/badge/-公众号%20Phaser游-%23323031?style=flat&logo=wechat&logoColor=ffffff)
 
-## My stacks
+<iframe src="https://baidu.com"></iframe>
+
+## My Fields
+
+### System
+
+![Windows 11](https://img.shields.io/badge/-Windows%2011-%23579050?style=flat&logo=windows&logoColor=ffffff&color=0078D6)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23579050?style=flat&logo=ubuntu&logoColor=ffffff&color=e95420)
+![macOS](https://img.shields.io/badge/-macOS-%23579050?style=flat&logo=apple&logoColor=ffffff&color=2C2C32)
+
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
@@ -50,9 +62,7 @@ I'm Allen Wong, an front-end developer from China 🇨🇳. Love discovering and
 ![Adobe Audition](https://img.shields.io/badge/-Adobe%20Audition-%23579050?style=flat&logo=adobe-audition&logoColor=00005b&color=9999FF)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-%23579050?style=flat&logo=adobe-premiere-pro&logoColor=00005b&color=9999FF)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-%23579050?style=flat&logo=adobe-after-effects&logoColor=00005b&color=9999FF)\
-![Windows](https://img.shields.io/badge/-Windows-%23579050?style=flat&logo=windows&logoColor=ffffff&color=0078D6)
-![macOS](https://img.shields.io/badge/-macOS-%23579050?style=flat&logo=apple&logoColor=ffffff&color=2C2C32)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23579050?style=flat&logo=ubuntu&logoColor=ffffff&color=e95420)
+
 
 ## My status
 
