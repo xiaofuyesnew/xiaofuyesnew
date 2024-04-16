@@ -1,32 +1,45 @@
-# *Hi, coders!* 🖖
+# 🖖 *Hi, coders!*
 
-> *Talk is cheap, show me the code.* --Linus Torvalds
+I'm **Allen Wong**, a *FULL STACK CODER* who is always glad to explore and discover some new magic then wield them...🧙
 
-I'm Allen Wong, a full-stack developer from China 🇨🇳. Love discovering and digging new magic...🧙
+Currently, I'm focusing on [Phaser.js](https://phaser.io) infrastructure🏗️ and game dev🎮
 
-Currently I'm focusing on [Phaser.js](https://phaser.io) infrastructure🏗️ and game dev🎮
+Welcome to communicate with me, but I prefer to believe:
+
+> "Talk is cheap, show me the code." - [Linus Torvalds](https://github.com/torvalds)
 
 Find me on:
 
 [![X](https://img.shields.io/badge/-twitter-%23323031?style=flat-square&logo=x)](https://twitter.com/xiaofuyesnew)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23323031?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/xiaofuyesnew/)\
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23323031?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/xiaofuyesnew/)
+[![YouTube](https://img.shields.io/badge/-YouTube-%23323031?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCe-LRPFs6Atx7Z5hcp1K2nQ)\
 ![公众号](https://img.shields.io/badge/-公众号%20Phaser游-%23323031?style=flat-square&logo=wechat&logoColor=ffffff)
 [![微博](https://img.shields.io/badge/-微博-%23323031?style=flat-square&logo=sina-weibo&logoColor=ffffff)](https://weibo.com/u/1183565322)
 [![掘金](https://img.shields.io/badge/-掘金-%23323031?style=flat-square&logo=juejin&logoColor=ffffff)](https://juejin.cn/user/2928754705564184)
-[![掘金](https://img.shields.io/badge/-知乎-%23323031?style=flat-square&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/xiaofuyesnew)
+[![知乎](https://img.shields.io/badge/-知乎-%23323031?style=flat-square&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/xiaofuyesnew)
+[![哔哩哔哩](https://img.shields.io/badge/-哔哩哔哩-%23323031?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/747089/)
 
 ## 💁‍♂️ Recommend
 
 [![vite-phaser](https://img.shields.io/badge/-vite%20phaser-%23323031?style=flat-square&logo=github)](https://github.com/xiaofuyesnew/vite-phaser)
+
+## 🍀 Status
+
+![status](https://github-readme-stats.vercel.app/api?username=xiaofuyesnew&theme=merko&show_icons=true)
+![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaofuyesnew&layout=compact&theme=merko)
+![trophy](https://github-profile-trophy.vercel.app/?username=xiaofuyesnew&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ## 🛠️ Fields
 
 ### Frontend
 
 ![Vue](https://img.shields.io/badge/-Vue-%23323031?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/-Nuxt-%23323031?style=flat-square&logo=nuxt.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/-React-%23323031?style=flat-square&logo=react&logoColor=61DAFB)
+![next](https://img.shields.io/badge/-Next-%23323031?style=flat-square&logo=next.js)\
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23197CBE?style=flat-square&logo=sass&color=333333)
 ![UnoCSS](https://img.shields.io/badge/-UnoCSS-%23CB6498?style=flat-square&logo=unocss&logoColor=ffffff&color=333333)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23579050?style=flat-square&logo=typescript&logoColor=ffffff&color=3178c6)
@@ -37,11 +50,17 @@ Find me on:
 ![Koa](https://img.shields.io/badge/-Koa-%23579050?logo=koa&style=flat-square&color=2C2C32)
 ![Prisma](https://img.shields.io/badge/-Prisma-%23323031?style=flat-square&logo=prisma&logoColor=ffffff)
 
-### Cross Platform
+### Database
 
-![Electron](https://img.shields.io/badge/-Electron-%23323031?style=flat-square&logo=electron&color=2C2C32)
-![Capacitor](https://img.shields.io/badge/-Capacitor-%23323031?style=flat-square&logo=capacitor&color=2C2C32)
-![Tauri](https://img.shields.io/badge/-Tauri-%23323031?style=flat-square&logo=tauri&color=2C2C32)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23579050?style=flat-square&logo=mongodb&logoColor=ffffff&color=47A248)
+![MySQL](https://img.shields.io/badge/-MySQL-%23579050?style=flat-square&logo=mysql&logoColor=ffffff&color=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23579050?style=flat-square&logo=PostgreSQL&logoColor=ffffff&color=4169E1)
+
+### Bundler Tools
+
+![Vite](https://img.shields.io/badge/-Vite-%23323031?style=flat-square&logo=vite)
+![Webpack](https://img.shields.io/badge/-Webpack-%23323031?style=flat-square&logo=webpack&logoColor=8DD6F9)
+![Webpack](https://img.shields.io/badge/-esbuild-%23323031?style=flat-square&logo=esbuild&logoColor=FFCF00)
 
 ### Package Manager / Runtime
 
@@ -51,22 +70,17 @@ Find me on:
 ![Bun](https://img.shields.io/badge/-Bun-%23579050?style=flat-square&logo=bun&color=2C2C32)
 ![Deno](https://img.shields.io/badge/-Deno-%23579050?style=flat-square&logo=deno&color=2C2C32)
 
-### Bundler Tool
+### Cross Platform
 
-![Vite](https://img.shields.io/badge/-Vite-%23323031?style=flat-square&logo=vite)
-![Webpack](https://img.shields.io/badge/-Webpack-%23323031?style=flat-square&logo=webpack&logoColor=8DD6F9)
-![Webpack](https://img.shields.io/badge/-esbuild-%23323031?style=flat-square&logo=esbuild&logoColor=FFCF00)
+![Electron](https://img.shields.io/badge/-Electron-%23323031?style=flat-square&logo=electron&color=2C2C32)
+![Capacitor](https://img.shields.io/badge/-Capacitor-%23323031?style=flat-square&logo=capacitor&color=2C2C32)
+![Tauri](https://img.shields.io/badge/-Tauri-%23323031?style=flat-square&logo=tauri&color=2C2C32)
 
-### Database
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23579050?style=flat-square&logo=mongodb&logoColor=ffffff&color=47A248)
-![MySQL](https://img.shields.io/badge/-MySQL-%23579050?style=flat-square&logo=mysql&logoColor=ffffff&color=4479A1)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23579050?style=flat-square&logo=PostgreSQL&logoColor=ffffff&color=4169E1)
-
-### ServerSide
+### Server Side
 
 ![Nginx](https://img.shields.io/badge/-Nginx-%23579050?style=flat-square&logo=nginx&logoColor=ffffff&color=009639)
 ![PM2](https://img.shields.io/badge/-PM2-%23579050?style=flat-square&logo=pm2&logoColor=ffffff&color=2b037a)
+![docker](https://img.shields.io/badge/-docker-%23579050?style=flat-square&logo=docker&color=2C2C32)
 
 ### Other Languages
 
@@ -97,9 +111,3 @@ Find me on:
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-%23579050?style=flat-square&logo=adobe-photoshop&logoColor=001e36&color=31A8FF)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-%23579050?style=flat-square&logo=adobe-illustrator&logoColor=330000&color=FF9A00)
 ![Adobe Audition](https://img.shields.io/badge/-Adobe%20Audition-%23579050?style=flat-square&logo=adobe-audition&logoColor=00005b&color=9999FF)
-
-## 🍀 Status
-
-![status](https://github-readme-stats.vercel.app/api?username=xiaofuyesnew&theme=merko&show_icons=true)
-![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaofuyesnew&layout=compact&theme=merko)
-![trophy](https://github-profile-trophy.vercel.app/?username=xiaofuyesnew&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
