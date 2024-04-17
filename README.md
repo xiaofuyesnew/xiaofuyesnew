@@ -102,8 +102,9 @@ Find me on:
 
 ### Shell
 
-![zsh](https://img.shields.io/badge/-Zsh-%23579050?style=flat-square&logo=zsh&color=2C2C32&logoColor=ffffff)
+![Git Bash](https://img.shields.io/badge/-Git%20Bash-%23579050?style=flat-square&logo=git&logoColor=ffffff&color=F05032)
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-%23579050?style=flat-square&logo=windows-terminal&color=2C2C32)
+![zsh](https://img.shields.io/badge/-Zsh-%23579050?style=flat-square&logo=zsh&color=2C2C32&logoColor=ffffff)
 ![iTerm2](https://img.shields.io/badge/-iTerm2-%23579050?style=flat-square&logo=iterm2&color=2C2C32)
 
 ### System
