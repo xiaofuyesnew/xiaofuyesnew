@@ -10,7 +10,7 @@ Welcome to communicate with me, but I prefer to believe:
 
 Find me on:
 
-[![VitePress](https://img.shields.io/badge/-My%20Blog-%23323031?style=flat-square&logo=vitepress&logoColor=ffffff)]()\
+[![VitePress](https://img.shields.io/badge/-My%20Blog-%23323031?style=flat-square&logo=vitepress&logoColor=ffffff)](https://xiaofuyesnew.github.io)\
 [![X](https://img.shields.io/badge/-twitter-%23323031?style=flat-square&logo=x)](https://twitter.com/xiaofuyesnew)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23323031?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/xiaofuyesnew/)
 [![YouTube](https://img.shields.io/badge/-YouTube-%23323031?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCe-LRPFs6Atx7Z5hcp1K2nQ)\
