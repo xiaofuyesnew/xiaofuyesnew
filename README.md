@@ -1,6 +1,6 @@
 # 🖖 *Hi, coders!*
 
-I'm **Allen Wong**, a **full stack coder** who is always glad to explore and discover some new magic then wield them...🧙
+I'm **Allen Huang**, a **full stack coder** who is always glad to explore and discover some new magic then wield them...🧙
 
 Currently, I'm focusing on [Phaser.js](https://phaser.io) infrastructure🏗️ and game dev🎮
 
