@@ -1,6 +1,6 @@
 # 🖖 *Hi, coders!*
 
-I'm **Allen Huang**, a **full stack coder** who is always glad to explore and discover some new magic then wield them...🧙
+I'm **Allen Huang**, a **full stack coder** & **Game Developer** who is always glad to explore and discover new magic then wield them...🧙
 
 Currently, I'm focusing on [Phaser.js](https://phaser.io) infrastructure🏗️ and game dev🎮
 
@@ -10,15 +10,14 @@ Welcome to communicate with me, but I prefer to believe:
 
 Find me on:
 
-[![VitePress](https://img.shields.io/badge/-My%20Blog-%23323031?style=flat-square&logo=vitepress&logoColor=ffffff)](https://xiaofuyesnew.github.io)\
-[![X](https://img.shields.io/badge/-twitter-%23323031?style=flat-square&logo=x)](https://twitter.com/xiaofuyesnew)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23323031?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/xiaofuyesnew/)
-[![YouTube](https://img.shields.io/badge/-YouTube-%23323031?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCe-LRPFs6Atx7Z5hcp1K2nQ)\
-![公众号](https://img.shields.io/badge/-公众号%20Phaser游-%23323031?style=flat-square&logo=wechat&logoColor=ffffff)
-[![微博](https://img.shields.io/badge/-微博-%23323031?style=flat-square&logo=sina-weibo&logoColor=ffffff)](https://weibo.com/u/1183565322)
+[![VitePress](https://img.shields.io/badge/-My%20Blog-%23323031?style=flat-square&logo=vitepress&logoColor=ffffff)](https://xiaofuyesnew.github.io)
+![公众号](https://img.shields.io/badge/-公众号%20AllensCodeCorner-%23323031?style=flat-square&logo=wechat&logoColor=ffffff)
 [![掘金](https://img.shields.io/badge/-掘金-%23323031?style=flat-square&logo=juejin&logoColor=ffffff)](https://juejin.cn/user/2928754705564184)
-[![知乎](https://img.shields.io/badge/-知乎-%23323031?style=flat-square&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/xiaofuyesnew)
 [![哔哩哔哩](https://img.shields.io/badge/-哔哩哔哩-%23323031?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/747089/)
+[![YouTube](https://img.shields.io/badge/-YouTube-%23323031?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCe-LRPFs6Atx7Z5hcp1K2nQ)
+[![X](https://img.shields.io/badge/-twitter-%23323031?style=flat-square&logo=x)](https://twitter.com/xiaofuyesnew)
+[![微博](https://img.shields.io/badge/-微博-%23323031?style=flat-square&logo=sina-weibo&logoColor=ffffff)](https://weibo.com/u/1183565322)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23323031?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/xiaofuyesnew/)
 
 ## 💁‍♂️ Recommend
 
@@ -30,7 +29,7 @@ Find me on:
 ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaofuyesnew&layout=compact&theme=merko)
 ![trophy](https://github-profile-trophy.vercel.app/?username=xiaofuyesnew&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
-## 🛠️ Fields
+<!-- ## 🛠️ Fields
 
 ### Frontend
 
@@ -96,7 +95,7 @@ Find me on:
 
 ### Editor
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23579050?style=flat-square&logo=visual-studio-code&logoColor=007ACC&color=2C2C32)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23579050?style=flat-square&color=2C2C32)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%23579050?style=flat-square&logo=android-studio&logoColor=3DDC84&color=2C2C32)
 ![Xcode](https://img.shields.io/badge/-Xcode-%23579050?style=flat-square&logo=xcode&logoColor=ffffff&color=147EFB)
 
@@ -118,4 +117,4 @@ Find me on:
 ![Adobe Photoshop](https://img.shields.io/badge/-figma-%23579050?style=flat-square&logo=figma&logoColor=F24E1E&color=2C2C32)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-%23579050?style=flat-square&logo=adobe-photoshop&logoColor=001e36&color=31A8FF)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-%23579050?style=flat-square&logo=adobe-illustrator&logoColor=330000&color=FF9A00)
-![Adobe Audition](https://img.shields.io/badge/-Adobe%20Audition-%23579050?style=flat-square&logo=adobe-audition&logoColor=00005b&color=9999FF)
+![Adobe Audition](https://img.shields.io/badge/-Adobe%20Audition-%23579050?style=flat-square&logo=adobe-audition&logoColor=00005b&color=9999FF) -->
