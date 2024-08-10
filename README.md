@@ -1,6 +1,6 @@
 # 🖖 *Hi, coders!*
 
-I'm **Allen Huang**, a **full stack coder** & **Game Developer** who is always glad to explore and discover new magic then wield them...🧙
+I'm **Allen Huang**, a **Full Stack Coder** & **Game Developer** who is always glad to explore and discover new magic then wield them...🧙
 
 Currently, I'm focusing on [Phaser.js](https://phaser.io) infrastructure🏗️ and game dev🎮
 
@@ -21,6 +21,7 @@ Find me on:
 
 ## 💁‍♂️ Recommend
 
+[![Hev Admin](https://img.shields.io/badge/-Hev%20Admin-%23323031?style=flat-square&logo=github)](https://github.com/hev-admin/admin-next)
 [![vite-phaser](https://img.shields.io/badge/-vite%20phaser-%23323031?style=flat-square&logo=github)](https://github.com/xiaofuyesnew/vite-phaser)
 
 ## 🍀 Status
